@@ -1,7 +1,12 @@
 .headerStyling{
     background-color: rgb(95, 95, 197);
     text-align: center;
-    font-size: 100px;
+    font-size: 225px;
+    padding: 50px;
+}
+
+.headerImg{
+    transform: scale(1.25);
     padding: 50px;
 }
 /* idea notes
@@ -9,21 +14,29 @@ add fade transition to my name
 
 */
 
+/* change font here */
+.navStyling{
+    padding: 30px;
+    font-size: 150px;
+}
 
 body {
     background-color: rgb(32, 32, 75)
 }
 
 .sections{
-background-color: rgb(143, 93, 101)
+    background-color: rgb(46, 87, 100);
+    text-align: center;
+    font-size: 100px;
+   
 }
 
 .sectionsHeader{
-    font-size: 150px;
+    font-size: 200px;
     text-align: center;
 }
 
-/* the code below is ripped directly from w3 schools. */
+/* the code below is ripped directly from w3 schools. i saw no reason to just retype it if im going to use it anyway. */
 
  /* unvisited link */
  a:link {
@@ -32,7 +45,7 @@ background-color: rgb(143, 93, 101)
   
   /* visited link */
   a:visited {
-    color: rgb(77, 77, 241);
+    color: rgb(70, 70, 199);
   }
   
   /* mouse over link */
