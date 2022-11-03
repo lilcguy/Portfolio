@@ -1,13 +1,12 @@
 .headerStyling{
     background-color: rgb(95, 95, 197);
     text-align: center;
-    font-size: 225px;
-    padding: 50px;
+    font-size: 25px;
+    padding: 30px;
 }
 
 .headerImg{
-    transform: scale(1.25);
-    padding: 50px;
+    height: 500px;
 }
 /* idea notes
 add fade transition to my name
@@ -16,8 +15,8 @@ add fade transition to my name
 
 /* change font here */
 .navStyling{
-    padding: 30px;
-    font-size: 150px;
+    padding: 10px;
+    font-size: 30px;
 }
 
 body {
@@ -42,6 +41,7 @@ body {
     
 }
 
+/* the IDs below are strictly for referencing for the internal links. i doubt this was the most efficient way to do this. */
 #aboutMe{
     font-size: 200px;
     text-align: center;
