@@ -38,7 +38,26 @@ body {
 }
 
 .workImages{
+    border: solid blue;
+    
+}
 
+#aboutMe{
+    font-size: 200px;
+    text-align: center;
+}
+
+
+#myWork {
+    font-size: 200px;
+    text-align: center;
+}
+
+
+
+#contact-me{
+    font-size: 200px;
+    text-align: center;
 }
 
 .workImages:hover{
