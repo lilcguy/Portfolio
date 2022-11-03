@@ -26,22 +26,37 @@ body {
 .sections{
     background-color: rgb(46, 87, 100);
     text-align: center;
-    font-size: 100px;
-    padding: 50px;
+    font-size: 20px;
+    padding: 20px;
    
 }
 
 .sectionsHeader{
-    font-size: 200px;
+    font-size: 100px;
     text-align: center;
 }
 
 .workImages{
     border: solid blue;
-    
+    transform: scale(1);
+    height: 200px;
+    width: 150px;
+    display: inline;
 }
 
-/* the IDs below are strictly for referencing for the internal links. i doubt this was the most efficient way to do this. */
+.firstImage{
+    border: solid blue;
+    height: 500px;
+    width: 400px;
+}
+
+.firstImage:hover{
+    opacity: 0.4;
+}
+
+/* the IDs below are strictly for referencing for the internal links' functionality. i doubt this was the most efficient way to do this but i didnt
+want to mess with the existing classes or make new ones, so i settled for this.
+*/
 #aboutMe{
     font-size: 200px;
     text-align: center;
@@ -72,15 +87,15 @@ body {
   
   /* visited link */
   a:visited {
-    color: rgb(70, 70, 199);
+    color: rgb(20, 20, 66);
   }
   
   /* mouse over link */
   a:hover {
-    color: rgb(77, 77, 241);
+    color: rgb(195, 195, 236);
   }
   
   /* selected link */
   a:active {
-    color: rgb(77, 77, 241);
+    color: rgb(20, 20, 66);
   } 
