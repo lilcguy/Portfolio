@@ -39,21 +39,24 @@ body {
 .workImages{
     border: solid blue;
     transform: scale(1);
-    height: 200px;
-    width: 150px;
+    height: 300px;
+    width: 200px;
     display: inline;
 }
 
 .firstImage{
     border: solid blue;
     height: 500px;
-    width: 400px;
+    width: 900px;
 }
 
 .firstImage:hover{
     opacity: 0.4;
 }
 
+.placeholder-text{
+    text-align: left;
+}
 /* the IDs below are strictly for referencing for the internal links' functionality. i doubt this was the most efficient way to do this but i didnt
 want to mess with the existing classes or make new ones, so i settled for this.
 */
