@@ -28,6 +28,7 @@ body {
     background-color: rgb(46, 87, 100);
     text-align: center;
     font-size: 100px;
+    padding: 50px;
    
 }
 
@@ -36,6 +37,13 @@ body {
     text-align: center;
 }
 
+.workImages{
+
+}
+
+.workImages:hover{
+    opacity: 0.4;
+}
 /* the code below is ripped directly from w3 schools. i saw no reason to just retype it if im going to use it anyway. */
 
  /* unvisited link */
