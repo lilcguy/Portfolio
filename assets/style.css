@@ -61,21 +61,18 @@ body {
 want to mess with the existing classes or make new ones, so i settled for this.
 */
 #aboutMe{
-    font-size: 200px;
-    text-align: center;
+    
 }
 
 
 #myWork {
-    font-size: 200px;
-    text-align: center;
+    
 }
 
 
 
 #contact-me{
-    font-size: 200px;
-    text-align: center;
+    
 }
 
 .workImages:hover{
