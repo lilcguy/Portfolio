@@ -4,3 +4,43 @@
     font-size: 100px;
     padding: 50px;
 }
+/* idea notes
+add fade transition to my name
+
+*/
+
+
+body {
+    background-color: rgb(32, 32, 75)
+}
+
+.sections{
+background-color: rgb(143, 93, 101)
+}
+
+.sectionsHeader{
+    font-size: 150px;
+    text-align: center;
+}
+
+/* the code below is ripped directly from w3 schools. */
+
+ /* unvisited link */
+ a:link {
+    color: rgb(20, 20, 66);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(77, 77, 241);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(77, 77, 241);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(77, 77, 241);
+  } 
