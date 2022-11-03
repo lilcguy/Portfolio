@@ -102,3 +102,22 @@ want to mess with the existing classes or make new ones, so i settled for this.
   a:active {
     color: rgb(20, 20, 66);
   } 
+
+  @media all and (max-width: 800px) {
+    .firstImage{
+        width: 430px;
+    }
+  }
+/* only one media query was used because of the simple nature of the site. the only item that needed to be adjusted was the sole large image on the page.
+*/
+
+
+  
+  /* 
+  rough dimensions:
+  desktop 1200px
+  laptop 1024
+  tablet 768
+  phone 480 
+  
+  */
