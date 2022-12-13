@@ -6,7 +6,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 # What was your motivation?
 My motivation behind this project was to create a webpage from scratch as a demonstration of ability and understanding of HTML and CSS.
-# Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+# Why did you build this project?
 A portfolio is a demonstration of ability for potential employers. A webpage serving as a portfolio for a web developer is a no-brainer. The page itself is a demonstration, and it includes links to other projects within it.
 # What problem does it solve?
 This project serves as a portfolio that can and will be altered in the future as projects are completed to replace the placeholder images and links, as well as develop a more appealing design. A portfolio is an important resource in a job search as one's most impressive work can all be displayed and accessed on a single page that an employer can view.
