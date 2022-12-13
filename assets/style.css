@@ -39,8 +39,8 @@ body {
 .workImages{
     border: solid blue;
     transform: scale(1);
-    height: 300px;
-    width: 200px;
+    height: 600px;
+    width: 600px;
     display: inline;
 }
 
